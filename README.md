@@ -5,13 +5,18 @@ Group project for the course MTH208 (Semester I 2025-26, IIT Kanpur), taken by P
 Execution of files:
 - Download the zip file “MTH208 - Team 7 - Project” and extract the contents.
 - Install the packages listed below if not already installed, by executing the lines:
+
 install.packages(c("ggplot2", "rnaturalearth", "rnaturalearthdata", "sf", "viridis"))
+
 install.packages("shiny")
 
 To run the app:
 - Run the following commands in the console:
+  
 setwd(“path to the extracted file”)
+
 shiny::runApp(“app.R”)
+
 - You can now see the app. You can go through the various tabs and view the visualizations. In the tab “Correlation with parameters”, you can also use the controls on the left top of the screen to pick which parameter you would like to see the correlation of AQI with, and you can choose to have a regression line or not in that correlation plot.
 
 To see Exploratory Data Analysis:
