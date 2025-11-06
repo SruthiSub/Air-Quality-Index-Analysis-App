@@ -1,5 +1,4 @@
-Air Quality Index Analysis App - to analyse global trends and variations in the Air Quality Index, and to check correlation of the Air Quality Index with various environmental and socio-economic factors like temperature, humidity, rainfall, sunshine, GDP per capita, and population.
-Visualization through heatmaps, and correlation plots, integrated in an RShiny App.
+Air Quality Index Analysis App - to analyse global trends and variations in the Air Quality Index, and to check correlation of the Air Quality Index with various environmental and socio-economic factors like temperature, humidity, rainfall, sunshine, GDP per capita, and population. Visualization is done through heatmaps, and correlation plots, integrated in an RShiny App.
 
 Group project for the course MTH208 (Semester I 2025-26, IIT Kanpur), taken by Professor Akash Anand.
 
